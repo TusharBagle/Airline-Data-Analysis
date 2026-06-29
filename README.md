@@ -25,7 +25,7 @@ The workbook covers the complete data analytics workflow:
 
 ## 📂 Workbook Structure
 
-|------------------------|----------------------------------------|
+
 | Worksheet              | Description                            |
 |------------------------|----------------------------------------|
 | **Load Dataset**       | Raw airline review dataset             |
@@ -36,7 +36,7 @@ The workbook covers the complete data analytics workflow:
 | **KPI's**              | Key Performance Indicators             |
 | **Dashboard**          | Interactive Airline Dashboard          |
 | **Documentations**     | Project documentation                  |
-|------------------------|----------------------------------------|
+
 
 ---
 
